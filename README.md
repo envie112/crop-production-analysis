@@ -15,15 +15,7 @@ This project analyzes crop production data across various states in India, exami
 - Distribution of production across seasons
 - And more...
 
-## Requirements
 
-- Python 3.6+
-- pandas
-- numpy
-- matplotlib
-- seaborn
-
-## Usage
 
 1. Clone the repository
 2. Install required packages: `pip install -r requirements.txt`
