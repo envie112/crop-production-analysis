@@ -1,7 +1,12 @@
 # Crop Production Data Analysis
 This project analyzes crop production data across various states in India, examining seasonal variations and regional distributions.
 
+## Features
 
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Visualization of crop production by state and season
+- Statistical analysis of production patterns
 
 ## Visualizations
 
