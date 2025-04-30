@@ -23,4 +23,8 @@ This project analyzes crop production data across various states in India, exami
 - matplotlib
 - seaborn
 
+## Usage
 
+1. Clone the repository
+2. Install required packages: `pip install -r requirements.txt`
+3. Run the analysis: `python analysis.py`
