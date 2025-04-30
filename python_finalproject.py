@@ -201,14 +201,3 @@ plt.tight_layout()
 plt.savefig('scatter_plot_production_vs_state.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Print summary statistics
-print("\nTotal Agricultural Production:", total_production)
-print("\nTop 5 States by Production:")
-for i, row in top_5_states.iterrows():
-    print(f"{row['State_Name']}: {row['Production']:,} ({row['Production']/total_production*100:.1f}%)")
-
-print("\nProduction by Season:")
-for i, row in season_totals.iterrows():
-    print(f"{row['Season']}: {row['Production']:,} ({row['Production']/total_production*100:.1f}%)")
-
-print("\nData Visualization Complete. Check the saved image files.")
