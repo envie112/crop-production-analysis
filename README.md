@@ -8,7 +8,12 @@ This project analyzes crop production data across various states in India, exami
 - Visualization of crop production by state and season
 - Statistical analysis of production patterns
 
+## Visualizations
 
+- Top states by agricultural production
+- Seasonal production by state
+- Distribution of production across seasons
+- And more...
 
 
 ## Requirements
